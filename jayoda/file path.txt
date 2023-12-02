@@ -1,0 +1,5 @@
+1st - Download the XAMMPP
+2nd - go to local disk C
+3rd - select XAMMPP
+4th - select htdocs
+5th - create new files or folders
